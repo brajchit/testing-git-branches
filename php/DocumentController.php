@@ -60,6 +60,9 @@ class DocumetController extends Controller
 
         $valiable_add2 = "variable add en el commit 54";
 
+        #agredado en el master despues del merge iss54->master
+        $apend = "agregado al master";
+        $apend2 = "agregado al master";
         return $variable.$variable2;
     }
     public function myFunAdd($value)
