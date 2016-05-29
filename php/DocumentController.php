@@ -66,10 +66,7 @@ class DocumetController extends Controller
 
         return $variable.$variable2;
     }
-    public function myFunAdd($value)
-    {
-        return "en el priemr commit iss54";
-    }
+    
     /**
      * Show the form for editing the specified resource.
      *
