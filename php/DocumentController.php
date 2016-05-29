@@ -54,7 +54,9 @@ class DocumetController extends Controller
      */
     public function show($id)
     {
-        //
+        $variable = "este es un mensaje de";
+        $variable2 = "el segudno commit de iss53";
+        return $variable.$variable2;
     }
 
     /**
