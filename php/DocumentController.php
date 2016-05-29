@@ -55,10 +55,17 @@ class DocumetController extends Controller
     public function show($id)
     {
         $variable = "este es un mensaje de";
+        $valiable_add = "variable add en el commit 54";
         $variable2 = "el segudno commit de iss53";
+
+        $valiable_add2 = "variable add en el commit 54";
+
         return $variable.$variable2;
     }
-
+    public function myFunAdd($value)
+    {
+        return "en el priemr commit iss54";
+    }
     /**
      * Show the form for editing the specified resource.
      *
