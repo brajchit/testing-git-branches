@@ -1,1 +1,3 @@
 hola esto es mi primer  archivo para las pruebas de git 
+
+escrito despues del merge, avanzando al master 
