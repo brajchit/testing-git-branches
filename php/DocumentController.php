@@ -63,6 +63,10 @@ class DocumetController extends Controller
         #agredado en el master despues del merge iss54->master
         $apend = "agregado al master";
         $apend2 = "agregado al master";
+        // agreado en el iss54 despues del merge iss54->master
+        $add = "agregado ";
+        $add2 = "agregado otro";
+
         return $variable.$variable2;
     }
     public function myFunAdd($value)
