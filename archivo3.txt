@@ -3,3 +3,6 @@ este archivo lo creo despues de el segundo commit
 esta linea la agregre despues del commit 3
 
 escritura para temp
+
+
+aux
