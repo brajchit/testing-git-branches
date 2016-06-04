@@ -25,5 +25,10 @@ se queda con los despues de traer desde la rama-dos
 
 avance despeus de llevar rama dos al master
 
+
 from:master avance despued d doble fusion
 form:master avance2 depsue d dobre fusion"
+=======
+from rama-dos avance depeus de hacer doble merge
+form rama-do:avance2 dspues de dmerge
+
