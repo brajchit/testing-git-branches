@@ -32,3 +32,4 @@ form:master avance2 depsue d dobre fusion"
 from rama-dos avance depeus de hacer doble merge
 form rama-do:avance2 dspues de dmerge
 
+from:master avance1 despues de DDmerge
