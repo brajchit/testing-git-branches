@@ -2,8 +2,18 @@ este archivo lo creo despues de el segundo commit
 
 esta linea la agregre despues del commit 3
 
+escritura para temp
+
+
+aux
+
 escrito en la rama hotfisx, para priemr commit
 
 avance del master para probar merge master
 
+#<<<<<<<
 avace al maseter despues de llevarlo a rama dos
+
+avance de la rama dos despues del merge master->rama-dos
+#>>>>>>>
+se queda con los despues de traer desde la rama-dos
