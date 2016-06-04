@@ -6,3 +6,8 @@ escritura para temp
 
 
 aux
+
+escrito en la rama hotfisx, para priemr commit
+
+avance del master para probar merge master
+
