@@ -25,3 +25,4 @@ se queda con los despues de traer desde la rama-dos
 
 avance despeus de llevar rama dos al master
 
+from:master avance despued d doble fusion
